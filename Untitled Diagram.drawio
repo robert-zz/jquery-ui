@@ -4,109 +4,131 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_5mSTuPxr-ZiKRkBDSY7-1" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;fontFamily=Permanent Marker;fontSize=16;points=[];verticalAlign=top;stackBorder=0;resizable=1;strokeWidth=2;sketch=1;disableMultiStroke=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="80" width="900" height="440" as="geometry" />
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-31" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;strokeWidth=2;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="590" height="190" as="geometry" />
         </mxCell>
-        <object label="TO DO" status="New" id="_5mSTuPxr-ZiKRkBDSY7-2">
-          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
-            <mxGeometry y="28" width="180" height="412" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 1&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-3">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-2" vertex="1">
-            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 2&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-4">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-2" vertex="1">
-            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 3&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-5">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-2" vertex="1">
-            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="TO DO" status="New" id="pGOpG-bSNhb2IHFQ8WJe-5">
-          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-1">
-            <mxGeometry x="180" y="28" width="180" height="412" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 1&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="pGOpG-bSNhb2IHFQ8WJe-6">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="pGOpG-bSNhb2IHFQ8WJe-5">
-            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 2&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="pGOpG-bSNhb2IHFQ8WJe-7">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="pGOpG-bSNhb2IHFQ8WJe-5">
-            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 3&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="pGOpG-bSNhb2IHFQ8WJe-8">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="pGOpG-bSNhb2IHFQ8WJe-5">
-            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="TO DO" status="New" id="pGOpG-bSNhb2IHFQ8WJe-1">
-          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-1">
-            <mxGeometry x="360" y="28" width="180" height="412" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 1&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="pGOpG-bSNhb2IHFQ8WJe-2">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="pGOpG-bSNhb2IHFQ8WJe-1">
-            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 2&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="pGOpG-bSNhb2IHFQ8WJe-3">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="pGOpG-bSNhb2IHFQ8WJe-1">
-            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 3&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="pGOpG-bSNhb2IHFQ8WJe-4">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="pGOpG-bSNhb2IHFQ8WJe-1">
-            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="DOING" status="In progress" id="_5mSTuPxr-ZiKRkBDSY7-6">
-          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#006600;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
-            <mxGeometry x="540" y="28" width="180" height="412" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 4&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-7">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-6" vertex="1">
-            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 5&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-8">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-6" vertex="1">
-            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="DONE" status="Completed" id="_5mSTuPxr-ZiKRkBDSY7-9">
-          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#1BA1E2;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
-            <mxGeometry x="720" y="28" width="180" height="412" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 6&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-10">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-9" vertex="1">
-            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 7&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-11">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-9" vertex="1">
-            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 8&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-12">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-9" vertex="1">
-            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-9" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="310" width="200" height="200" as="geometry" />
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-39" value="&lt;div&gt;技&lt;/div&gt;&lt;div&gt;术&lt;/div&gt;&lt;div&gt;目&lt;/div&gt;&lt;div&gt;标&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="20" y="60" width="60" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-10" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="560" width="200" height="200" as="geometry" />
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-41" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;strokeWidth=2;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="263" width="590" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-42" value="建立全流程规范化管理体系" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#ffffff;collapsible=0;rounded=0;arcSize=30;strokeColor=#B20000;fillColor=#CC0000;swimlaneFillColor=#ffffc0;dropTarget=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="283" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-43" value="" style="text;html=1;strokeColor=#CC0000;fillColor=#FF6666;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#ffffff;" vertex="1" parent="pGOpG-bSNhb2IHFQ8WJe-42">
+          <mxGeometry y="30" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-45" value="&lt;div&gt;核心&lt;/div&gt;&lt;div&gt;目标&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="20" y="293" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-46" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;strokeWidth=2;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="414" width="590" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-47" value="标准化模板库" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#ffffff;collapsible=0;rounded=0;arcSize=30;strokeColor=#006EAF;fillColor=#1ba1e2;swimlaneFillColor=#ffffc0;dropTarget=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="434" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-48" value="" style="text;html=1;strokeColor=#006EAF;fillColor=#CCE5FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#ffffff;" vertex="1" parent="pGOpG-bSNhb2IHFQ8WJe-47">
+          <mxGeometry y="30" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-50" value="&lt;div&gt;战&lt;/div&gt;&lt;div&gt;略&lt;/div&gt;&lt;div&gt;目&lt;/div&gt;&lt;div&gt;标&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="20" y="444" width="60" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-51" value="形成严格的质量管控机制" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#ffffff;collapsible=0;rounded=0;arcSize=30;strokeColor=#CC0000;fillColor=#CC0000;swimlaneFillColor=#ffffc0;dropTarget=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="283" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-52" value="" style="text;html=1;strokeColor=#CC0000;fillColor=#FF6666;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#ffffff;" vertex="1" parent="pGOpG-bSNhb2IHFQ8WJe-51">
+          <mxGeometry y="30" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-53" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="221" as="sourcePoint" />
+            <mxPoint x="310" y="261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="373" as="sourcePoint" />
+            <mxPoint x="310" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-55" value="&lt;div&gt;支撑&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="314" y="213" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-56" value="实现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="313" y="363" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-63" value="200+标准工作表格" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="85" y="480" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-64" value="500+校验指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="85" y="530" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-65" value="常见问题清单库" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#ffffff;collapsible=0;rounded=0;arcSize=30;strokeColor=#006EAF;fillColor=#1ba1e2;swimlaneFillColor=#ffffc0;dropTarget=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="260" y="434" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-66" value="" style="text;html=1;strokeColor=#006EAF;fillColor=#CCE5FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#ffffff;" vertex="1" parent="pGOpG-bSNhb2IHFQ8WJe-65">
+          <mxGeometry y="30" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-67" value="&lt;div&gt;涵盖常见10大类&lt;/div&gt;&lt;div&gt;问题的知识库&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="265" y="480" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-68" value="建立典型案例库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="265" y="530" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-69" value="验收管理规范库" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#ffffff;collapsible=0;rounded=0;arcSize=30;strokeColor=#006EAF;fillColor=#1ba1e2;swimlaneFillColor=#ffffc0;dropTarget=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="434" y="434" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-70" value="" style="text;html=1;strokeColor=#006EAF;fillColor=#CCE5FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#ffffff;" vertex="1" parent="pGOpG-bSNhb2IHFQ8WJe-69">
+          <mxGeometry y="30" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-71" value="标准化流程规范" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="439" y="480" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-72" value="&lt;div&gt;整改跟踪及&lt;/div&gt;&lt;div&gt;质量问题追溯库&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="439" y="530" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-73" value="及时上传、智能校验及管理审核" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="105" y="316" width="230" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-74" value="建立三级审核及整改闭环" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="364" y="316" width="220" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-75" value="智能校验系统" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#ffffff;collapsible=0;rounded=0;arcSize=30;strokeColor=#006EAF;fillColor=#1ba1e2;swimlaneFillColor=#ffffc0;dropTarget=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="260" y="45" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-76" value="" style="text;html=1;strokeColor=#006EAF;fillColor=#CCE5FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#ffffff;" vertex="1" parent="pGOpG-bSNhb2IHFQ8WJe-75">
+          <mxGeometry y="30" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-77" value="目录完整性对比算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="265" y="91" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-78" value="&lt;div&gt;文件属性校验&lt;/div&gt;&lt;div&gt;（签名，日期，印章）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="265" y="141" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-79" value="云端存储系统" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#ffffff;collapsible=0;rounded=0;arcSize=30;strokeColor=#006EAF;fillColor=#1ba1e2;swimlaneFillColor=#ffffc0;dropTarget=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="45" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-80" value="" style="text;html=1;strokeColor=#006EAF;fillColor=#CCE5FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#ffffff;" vertex="1" parent="pGOpG-bSNhb2IHFQ8WJe-79">
+          <mxGeometry y="30" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-81" value="档案交底记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="95" y="91" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-82" value="流程审核及日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="95" y="141" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-83" value="档号管理系统" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#ffffff;collapsible=0;rounded=0;arcSize=30;strokeColor=#006EAF;fillColor=#1ba1e2;swimlaneFillColor=#ffffc0;dropTarget=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="429" y="45" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-84" value="" style="text;html=1;strokeColor=#006EAF;fillColor=#CCE5FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#ffffff;" vertex="1" parent="pGOpG-bSNhb2IHFQ8WJe-83">
+          <mxGeometry y="30" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-85" value="智能档号生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="434" y="91" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pGOpG-bSNhb2IHFQ8WJe-86" value="历史档号冲突检测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="434" y="141" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
